@@ -1,4 +1,4 @@
-package com.java.example.mergeSort;
+package com.java.example.sorting;
 
 public class QuickSort {
 
